@@ -1,0 +1,37 @@
+body {
+    color: black;
+}
+
+footer {
+
+    background-color: #303030;
+
+
+}
+
+footer a {
+    color: #C0C0C0;
+    text-decoration:none;
+
+}
+
+.container {
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+
+#carousel {
+    margin-bottom: 5%;
+}
+
+.card-img-overlay p {
+    opacity: 0;
+}
+.card-img-overlay p:hover {
+
+    opacity:1;
+    background-color: darkgrey;
+    color: white;
+
+}
+
